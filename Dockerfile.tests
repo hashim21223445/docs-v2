@@ -2,7 +2,7 @@
 # syntax=docker/dockerfile:1.2
 
 # Starting from a Go base image is easier than setting up the Go environment later.
-FROM python:3.9-slim
+FROM python:3.13.0b4-slim
 
 # Install the necessary packages for the test environment.
 RUN apt-get update && apt-get upgrade -y && apt-get install -y \
