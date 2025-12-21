@@ -7,7 +7,7 @@
   "devDependencies": {
     "@vvago/vale": "^3.4.2",
     "autoprefixer": ">=10.2.5",
-    "hugo-extended": ">=0.101.0",
+    "hugo-extended": ">=0.153.0",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.5",
     "postcss": ">=8.5.0",
